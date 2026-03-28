@@ -1,0 +1,6 @@
+Network Scan Summary - Sat Mar 28 16:17:34 EDT 2026
+Live hosts found:
+2
+Host IPs:
+192.168.12.1
+192.168.12.115
