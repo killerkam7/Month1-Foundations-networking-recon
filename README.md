@@ -23,7 +23,3 @@ In a real SOC or blue-team environment, analysts need fast, repeatable ways to b
 - Documentation & operational hygiene — critical for incident response and shift handoff
 - Basic awareness of home/OT network baselining (relevant for ICS/OT blue team paths)
 
-## Screenshots / Demo
-*(Add these — run the tool, take clean screenshots or GIFs of the menu, a live scan, and a generated .md report)*
-
-## Folder Structure
